@@ -16,7 +16,7 @@ There are three types of offers that can be sent:
 2. Discount: a user gains a reward equal to a fraction of the amount spent. 
 3. Informational: there is no reward.
 
-The basic task is to use the data to identify which groups of people are most responsive to each type of offer, and how best to present each type of offer.
+The basic task is to **use the data to identify which groups of people are most responsive to which types of offers, and how best to present each offer**.
 
 ## File Descriptions
 * Data Cleaning.ipynb - Jupyter notebook containing all of the preliminary wrangling, cleaning and joining of the 3 original datasets.
