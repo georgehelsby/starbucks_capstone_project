@@ -15,3 +15,8 @@ There are three types of offers that can be sent:
 3. Informational: there is no reward.
 
 The basic task is to use the data to identify which groups of people are most responsive to each type of offer, and how best to present each type of offer.
+
+## File Descriptions
+* Data Cleaning.ipynb - Jupyter notebook containing all of the preliminary wrangling, cleaning and joining of the 3 original datasets.
+* Data Exploration.ipynb - Jupyter notebook containing all relevant data exploration and analysis cited in the report.
+* 
