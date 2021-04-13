@@ -22,3 +22,6 @@ The basic task is to **use the data to identify which groups of people are most 
 * Data Cleaning.ipynb - Jupyter notebook containing all of the preliminary wrangling, cleaning and joining of the 3 original datasets.
 * Data Exploration.ipynb - Jupyter notebook containing all relevant data exploration and analysis cited in the report.
 * Udacity Capstone Project.pdf - External facing report summarizing entire project.
+
+## Link to Medium Blog Post
+https://georgehelsby67.medium.com/starbucks-promotional-data-analysis-da2dad66b94a
